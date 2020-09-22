@@ -1,0 +1,17 @@
+D++ Integrated Develpoment Environment
+
+Getting Started
+
+- Unzip D++ IDE
+
+- You will need to compile the DLL into your system folder
+  - OR -
+- You can download the DLL through the IDE (you will be prompted)
+
+- Run D++ (Through VB or the EXE)
+- You will be promted to enter your name and company.  Do so.
+- For more help, click on Help in D++ IDE.
+
+SqueakMac
+squeak5@mediaone.net
+http://squeakmac.tripod.com
